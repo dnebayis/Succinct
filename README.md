@@ -5,7 +5,7 @@ You can find all succinct related content that I will prepare for developers and
 
 If you think there is missing or incorrect content
 
-telegram : @avalanchezone 
+telegram : @shawty0x
 
 You can send DM or submit PR to the repo.
 
